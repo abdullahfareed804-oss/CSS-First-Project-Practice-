@@ -1,0 +1,25 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body{
+    background-color: beige;
+}
+
+#heading{
+    background-color: blanchedalmond;
+    text-align: center;
+
+}
+
+.paragraph{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.btn{
+    background-color: red;
+    color: aliceblue;
+    margin-left: 700px;
+}
